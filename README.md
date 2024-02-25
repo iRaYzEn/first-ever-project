@@ -9,5 +9,5 @@ i didn't learn a lot though, but it was a really fun experience
 
 A live version of the site: https://irayzen.github.io/first-ever-project/
 
-and yeah i found out about programming by watching Alzero web school videos so thank you if you watch this now i didn't learn a lot from you but i found out about this career
+and yeah i found out about programming by watching Alzero web school videos so thank you if you are reading this now i didn't learn a lot from you but i found out about this career
 because of you so think you 
