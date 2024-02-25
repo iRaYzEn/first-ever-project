@@ -77,14 +77,12 @@ body {
 .header .links {
     position: relative;
 }
-.header .links:hover .icon span:nth-child(2){
-    width: 100%;
-}
 .header .links .icon {
     width: 30px;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
+    cursor: pointer;
 }
 .header .links .icon span {
     background-color: black;
@@ -113,11 +111,7 @@ body {
     background-color: #f6f6f6;
     padding: 0;
     margin: 0;
-    display: none;
     z-index: 1;
-}
-.header .links:hover ul {
-    display: block;
 }
 .header .links ul::before {
     content: "";
